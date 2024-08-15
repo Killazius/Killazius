@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=7aed5a&style=flat" alt="killazius" /> </p>
 
-- 📝 I regularly write articles on [https://t.me/killazDev](https://t.me/killazDev)
+- 📝 I regularly write articles on [killaz.dev/blog](https://t.me/killazDev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
