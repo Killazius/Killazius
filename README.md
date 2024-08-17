@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksim Migunov</h1>
-<h3 align="center">SUAI student, intern C++ developer.</h3>
+<h3 align="center">SUAI student, trainee C++ developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=7aed5a&style=flat" alt="killazius" /> </p>
 
