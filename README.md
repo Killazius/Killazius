@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://guap.ru" target="_blank">
-    <img alt="suai" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white">
+    <img alt="suai" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=26a5e4">
   </a>
 </p>
 
