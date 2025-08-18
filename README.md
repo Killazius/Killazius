@@ -4,9 +4,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://guap.ru" target="_blank">
+    <img alt="suai" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white">
+  </a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=0080ff&style=flat" alt="killazius" /> </p>
-<p align="center">
-  <a href="https://t.me/killazDev">killaz.dev/blog</a>
-</p>
+
 
