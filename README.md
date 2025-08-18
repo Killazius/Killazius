@@ -1,30 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maksim Migunov</h1>
-<h3 align="center">SUAI student, trainee Go developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=7aed5a&style=flat" alt="killazius" /> </p>
-
-- 📝 I regularly write articles on [killaz.dev/blog](https://t.me/killazDev)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/24803205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24803205" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/killazius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="killazius" height="30" width="40" /></a>
+<p align="center">
+  <img alt="suai" src="https://img.shields.io/badge/SUAI-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTUiIGhlaWdodD0iMTE1IiB2aWV3Qm94PSIwIDAgMTE1IDExNSIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik01My44MTQ3IDQxLjcyMzFDNDEuMTg5MyA0MS44ODM5IDAgNDMuNDc3OCAwIDU3LjE5MTdDMCA3MS45MzM5IDQ3LjU2MzUgNzIuNjgwNCA1Ny4wOTkyIDcyLjY4MDRDNjYuNjMzOCA3Mi42ODA0IDExNC4xOTcgNzEuOTMzOSAxMTQuMTk3IDU3LjE5MTdDMTE0LjE5NyA1MC42NTQyIDEwNS42MTUgNDcuNjYwNSA5OS4xNjExIDQ1Ljk3NzlDOTIuMTIxNSA0NC4xNDIyIDgyLjYxMjMgNDIuODExMiA3Mi4xMTMyIDQyLjE2MTJDNzIuMjg0OCA0NC45NTMgNzIuNDA1NSA0Ny44MjI0IDcyLjQ3OTcgNTAuNzM5NkM5MS42NjUyIDUxLjk5MTkgMTAxLjgxMiA1NS4yMzI5IDEwNC45MzIgNTcuMjAyOEMxMDAuNzA3IDU5LjkzNyA4NC40MTc0IDY0LjEzNDIgNTcuMDk5MiA2NC4xMzQyQzI5LjczMjMgNjQuMTM0MiAxMy40MzM3IDU5LjkyMTUgOS4yNDIyNyA1Ny4xODg0QzEzLjIyMTEgNTQuNTczIDI4LjEzMSA1MC41OTc3IDUzLjkyMzIgNTAuMjY3MUM1Ni4yNzk3IDUwLjIzODMgNTguMTY1NiA0OC4zMDA1IDU4LjEzNDYgNDUuOTQwMkM1OC4xMDQ3IDQzLjU5OTggNTYuMjAxMSA0MS43MjIgNTMuODcwMSA0MS43MjJDNTMuODUxMiA0MS43MjIgNTMuODMzNSA0MS43MjIgNTMuODE0NyA0MS43MjMxWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTQxLjYzNDYgNTcuMTkxN0M0MS42MzQ2IDY2Ljc0MDcgNDIuMzc5OSAxMTQuMzgxIDU3LjA5OTMgMTE0LjM4MUM2My42MjI5IDExNC4zODEgNjYuNjExOCAxMDUuNzkyIDY4LjI5MTcgOTkuMzI5NkM3MC4xMjU1IDkyLjI3NTIgNzEuNDU1NSA4Mi43NDE4IDcyLjEwNTUgNzIuMjE3OEM2OC45NDM5IDcyLjQwNzUgNjYuMDIwNCA3Mi41MjE4IDYzLjU0MSA3Mi41ODk0QzYyLjI5MDcgOTEuODEwNSA1OS4wNTM4IDEwMS45NzcgNTcuMDg3MSAxMDUuMTAzQzU0LjM1NzQgMTAwLjg2OSA1MC4xNjU5IDg0LjU1MzEgNTAuMTY1OSA1Ny4xOTE3QzUwLjE2NTkgMjkuODAxNiA1NC4zNjYzIDEzLjQ4IDU3LjA5NDkgOS4yNjcyN0M1OS43MTQ5IDEzLjM1NDYgNjMuNzk3OSAyOC45MzY0IDY0LjAyMTYgNTUuMDM5OUM2NC4wNDE1IDU3LjM4ODEgNjUuOTQ3MyA1OS4yNzcgNjguMjg3MyA1OS4yNzdINjguMzI0OUM3MC42ODAzIDU5LjI1NTkgNzIuNTc0IDU3LjMyNTkgNzIuNTU0IDU0Ljk2NzhDNzIuNDM0NCA0MS4wMDg3IDcxLjE4MzEgMjcuOTI5MyA2OS4wMzAzIDE4LjE0MDdDNjYuMzA4MyA1Ljc2NDQ3IDYyLjUxNjcgMCA1Ny4wOTkzIDBDNDIuMzc5OSAwIDQxLjYzNDYgNDcuNjQwNiA0MS42MzQ2IDU3LjE5MTdaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=&logoColor=white&logoSize=auto">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go"  />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=0080ff&style=flat" alt="killazius" /> </p>
+<p align="center">
+  <a href="https://t.me/killazDev">killaz.dev/blog</a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killazius&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Killazius&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Killazius&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Killazius&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Killazius&theme=github_dark&utcOffset=8)
