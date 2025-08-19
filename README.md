@@ -4,12 +4,32 @@
   </a>
 </p>
 
+## tech.stack
+
+<a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=Go&logoColor=white&color=%2300ADD8"></a>
+
+<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1"></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1"></a>
+<a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2347A248"></a>
+<a href="https://clickhouse.com" target="_blank"><img src="https://img.shields.io/badge/ClickHouse-blue?style=for-the-badge&logo=ClickHouse&logoColor=white&color=%23FFCC01"></a>
+
+<a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-blue?style=for-the-badge&logo=Redis&logoColor=white&color=%23FF4438"></a>
+<a href="https://kafka.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-blue?style=for-the-badge&logo=Apache%20Kafka&logoColor=white&color=%23231F20"></a>
+
+<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white&color=%232496ED"></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Github_Actions-blue?style=for-the-badge&logo=Github%20Actions&logoColor=white&color=%232088FF"></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=Linux&logoColor=black&color=%23FCC624"></a>
+<a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-blue?style=for-the-badge&logo=Nginx&logoColor=white&color=%23009639"></a>
+
+<a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-blue?style=for-the-badge&logo=Prometheus&logoColor=white&color=%23E6522C"></a>
+<a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-blue?style=for-the-badge&logo=Grafana&logoColor=white&color=%23F46800"></a>
+
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=white&color=%23F05032"></a>
+
 <p align="center">
-  <a href="https://guap.ru" target="_blank">
-    <img alt="suai" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=26a5e4">
+  <a href="https://t.me/your_channel" target="_blank">
+    <img alt="blog" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=26a5e4">
   </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=killazius&label=Profile%20views&color=0080ff&style=flat" alt="killazius" /> </p>
-
-
