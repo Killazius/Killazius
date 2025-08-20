@@ -4,10 +4,10 @@
 <h5 align="center">How to reach me</h3>
 <p align="center">
   <a href="https://t.me/killazius" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=%2326A5E4" alt="Telegram">
+    <img src="https://img.shields.io/badge/%40killazius-blue?style=flat&logo=Telegram&logoColor=white&color=26A5E4" alt="Telegram">
   </a>
   <a href="https://t.me/killazDev" target="_blank">
-    <img alt="blog" src="https://img.shields.io/badge/blog-blue?style=for-the-badge&logo=Telegram&logoColor=white&color=26a5e4">
+    <img alt="blog" src="https://img.shields.io/badge/killaz.dev%2Fblog-blue?style=flat&logo=Telegram&logoColor=white&color=26A5E4">
   </a>
 </p>
 <p align="center">
